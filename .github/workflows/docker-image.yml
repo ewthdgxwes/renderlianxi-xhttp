@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/ewthdgxwes/renderlianxi:latest
+          tags: ghcr.io/ewthdgxwes/renderlianxi1:latest
